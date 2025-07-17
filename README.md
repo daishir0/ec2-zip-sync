@@ -5,7 +5,7 @@
 
 ## Installation
 1. Clone this repository:
-   ```sh
+```sh
    git clone https://github.com/daishir0/ec2-zip-sync
    cd ec2-zip-sync
 ````
